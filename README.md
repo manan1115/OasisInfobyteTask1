@@ -1,1 +1,3 @@
-# OasisInfobyteTask1
+This task is based on classification algorithm which is used in ML.There are many classification algorithms which are available for training a model like Naive bayes, logistic regression, Decision tree classifier etc....
+In this particular task, I have trained a model to classify the different species of Iris flower by using Logisitc Regression.
+Also , using various data visualization tools I have classified the speices into different segments.
